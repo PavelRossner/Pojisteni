@@ -1,0 +1,16 @@
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni\Pojisteni\bin\Debug\Pojisteni.exe.config
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni\Pojisteni\bin\Debug\Pojisteni.exe
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni\Pojisteni\bin\Debug\Pojisteni.pdb
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni\Pojisteni\obj\Debug\Pojisteni.csproj.AssemblyReference.cache
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni\Pojisteni\obj\Debug\Pojisteni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni\Pojisteni\obj\Debug\Pojisteni.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni\Pojisteni\obj\Debug\Pojisteni.exe
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni\Pojisteni\obj\Debug\Pojisteni.pdb
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\bin\Debug\Pojisteni.exe.config
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\bin\Debug\Pojisteni.exe
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\bin\Debug\Pojisteni.pdb
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\obj\Debug\Pojisteni.csproj.AssemblyReference.cache
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\obj\Debug\Pojisteni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\obj\Debug\Pojisteni.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\obj\Debug\Pojisteni.exe
+C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\obj\Debug\Pojisteni.pdb
