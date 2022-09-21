@@ -32,8 +32,6 @@ namespace Pojisteni
             Console.WriteLine("Data byla uložena. Pokračujte libovolnou klávesou...\n");
             Console.ReadKey();
         }
-
-
         public void ZadaniHledani()
         {
             Console.WriteLine();
@@ -45,9 +43,8 @@ namespace Pojisteni
             if (string.IsNullOrEmpty(hledaneJmeno) || string.IsNullOrEmpty(hledanePrijmeni))
                 Console.WriteLine("\nChybějící údaj, zadejte znovu.");
             else
-            databaze.Hledani(hledaneJmeno, hledanePrijmeni);
+                databaze.Hledani(hledaneJmeno, hledanePrijmeni);
         }
-
 
         public void Vypis()
         {

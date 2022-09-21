@@ -9,17 +9,14 @@ namespace Pojisteni
     class Databaze
     {
         private List<Pojisteny> udaje;
-
         public Databaze()
         {
             udaje = new List<Pojisteny>();
         }
-
         public void NovyUdaj(string jmeno, string prijmeni, int telefon, int vek)
         {
             udaje.Add(new Pojisteny(jmeno, prijmeni, telefon, vek));
         }
-
         public void Hledani(string hledaneJmeno, string hledanePrijmeni)
         {
             var dotaz = from p in udaje
@@ -28,8 +25,8 @@ namespace Pojisteni
 
             foreach (var p in dotaz)
                 Console.WriteLine("\n" + p + "\n");
-                Console.WriteLine("Pokračujte libovolnou klávesou...\n");
-                Console.ReadKey();
+            Console.WriteLine("Pokračujte libovolnou klávesou...\n");
+            Console.ReadKey();
         }
         public void Vypis()
         {
