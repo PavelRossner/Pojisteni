@@ -37,10 +37,16 @@ namespace Pojisteni
             Console.WriteLine();
             Console.WriteLine("Zadejte jméno pojištěného: ");
             string hledaneJmeno = Console.ReadLine();
-            Console.WriteLine("Zadejte příjmení: ");
-            string hledanePrijmeni = Console.ReadLine();
 
-            if (string.IsNullOrEmpty(hledaneJmeno) || string.IsNullOrEmpty(hledanePrijmeni))
+            if (string.IsNullOrEmpty(hledaneJmeno))
+            {
+                Console.WriteLine("\nChybějící údaj, zadejte znovu.");
+                ZadaniHledani();
+            }
+            else Console.WriteLine("Zadejte příjmení: ");
+
+            string hledanePrijmeni = Console.ReadLine();
+            if (string.IsNullOrEmpty(hledanePrijmeni))
                 Console.WriteLine("\nChybějící údaj, zadejte znovu.");
             else
                 databaze.Hledani(hledaneJmeno, hledanePrijmeni);
