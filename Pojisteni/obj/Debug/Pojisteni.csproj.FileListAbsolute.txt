@@ -14,3 +14,11 @@ C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\obj\Debug\Pojisteni.cspr
 C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\obj\Debug\Pojisteni.csproj.CoreCompileInputs.cache
 C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\obj\Debug\Pojisteni.exe
 C:\Users\Pavel\Dropbox\Projekt\Pojisteni-List\Pojisteni\obj\Debug\Pojisteni.pdb
+C:\Users\Pavel\Documents\Programovani\GitHub\Pojisteni\Pojisteni\bin\Debug\Pojisteni.exe.config
+C:\Users\Pavel\Documents\Programovani\GitHub\Pojisteni\Pojisteni\bin\Debug\Pojisteni.exe
+C:\Users\Pavel\Documents\Programovani\GitHub\Pojisteni\Pojisteni\bin\Debug\Pojisteni.pdb
+C:\Users\Pavel\Documents\Programovani\GitHub\Pojisteni\Pojisteni\obj\Debug\Pojisteni.csproj.AssemblyReference.cache
+C:\Users\Pavel\Documents\Programovani\GitHub\Pojisteni\Pojisteni\obj\Debug\Pojisteni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pavel\Documents\Programovani\GitHub\Pojisteni\Pojisteni\obj\Debug\Pojisteni.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Documents\Programovani\GitHub\Pojisteni\Pojisteni\obj\Debug\Pojisteni.exe
+C:\Users\Pavel\Documents\Programovani\GitHub\Pojisteni\Pojisteni\obj\Debug\Pojisteni.pdb
