@@ -20,16 +20,18 @@ namespace Pojisteni
         }
         public void Hledani(string hledaneJmeno, string hledanePrijmeni)
         {
-            var dotaz = udaje.Where(p => p.Jmeno == hledaneJmeno && p.Prijmeni == hledanePrijmeni);
 
+          
+           Pojisteny dotaz = udaje.Where(p => p.Jmeno == hledaneJmeno && p.Prijmeni == hledanePrijmeni).FirstOrDefault();
+          
             if (dotaz == null)
-            { Console.WriteLine("Osoba nebyla nalezena"); }
+                    Console.WriteLine("Osoba nebyla nalezena");
 
-            else
-                foreach (var p in dotaz)
-                    Console.WriteLine("\n" + p + "\n");
+                else
+                    Console.WriteLine("\n" + dotaz + "\n");
             Console.WriteLine("Pokračujte libovolnou klávesou...\n");
             Console.ReadKey();
+          
 
         }
         public void Vypis()
